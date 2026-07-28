@@ -1,17 +1,28 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+perfil!;Sou+o+Nathan;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Bem-vindo(a)+ao+meu+perfil!;Sou+o+Hiroshi;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o&animation=neon&size=28&font=monospace&center=true&vCenter=true&width=600&height=60" alt="Typing SVG com gradiente" />
 </h1>
 <p align="center">
-  Estudante de Ciência da Computação na FIAP • Em busca de estágio na área de tecnologia
+  Estudante de Ciência da Computação na FIAP • Desenvolvedor com foco em solucionar problemas reais de maneira diversa.
 </p>
+
+Sobre mim:
+<br><br>
+Estudante de Ciência da Computação em constante aprendizado. Procuro sempre aprender mais sobre linguagens de programação que não tenho plena compreensão
 ---
- Sobre mim
-  Estudante de Ciência da Computação interessado em programação no geral. Estudando constantemente sobre linguagens em que não tenho vasta compreensão
----
-🛠️ Tecnologias
+ Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
+
+    
+  </a>
 </p>
