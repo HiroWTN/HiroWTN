@@ -5,12 +5,8 @@
   Estudante de Ciência da Computação na FIAP • Em busca de estágio na área de tecnologia
 </p>
 ---
-👋 Sobre mim
-🎓 Cursando Ciência da Computação na FIAP (2° semestre de 8)
-💻 Maior experiência em Python, com conhecimento em C++
-🚀 Sempre disposto a aprender novas linguagens e tecnologias
-🗣️ Inglês avançado (leitura, escrita e compreensão auditiva fluentes)
-🔍 Buscando oportunidades de estágio na área de tecnologia
+ Sobre mim
+  Estudante de Ciência da Computação interessado em programação no geral. Estudando constantemente sobre linguagens em que não tenho vasta compreensão
 ---
 🛠️ Tecnologias
 <p align="left">
